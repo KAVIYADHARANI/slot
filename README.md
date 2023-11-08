@@ -54,16 +54,16 @@ Execute the program using runserver command.
 </tr>
 <tr>
 <td bgcolor="pink">8-10</td>
-<td bgcolor="cyan">Soft Skills</td>
+<td bgcolor="cyan">SS</td>
 <td bgcolor="cyan">Free Slot</td>
 <td bgcolor="cyan">FWAD</td>
-<td bgcolor="cyan">Mathematics</td>
-<td bgcolor="cyan">Digital Electronics</td>
+<td bgcolor="cyan">Math</td>
+<td bgcolor="cyan">DE</td>
 </tr>
 <tr>
 <td bgcolor="pink">10-12</td>
 <td bgcolor="cyan">Python</td>
-<td bgcolor="cyan">Mathematics</td>
+<td bgcolor="cyan">Math</td>
 <td bgcolor="cyan">Free Slot</td>
 <td bgcolor="cyan">FWAD</td>
 <td bgcolor="cyan">Free Slot</td>
@@ -74,16 +74,16 @@ Execute the program using runserver command.
 </tr>
 <tr>
 <td bgcolor="pink">1-3</td>
-<td bgcolor="cyan">Physics</td>
+<td bgcolor="cyan">Phy</td>
 <td bgcolor="cyan">Free slot</td>
-<td bgcolor="cyan">Digital Electronics</td>
+<td bgcolor="cyan">DE</td>
 <td bgcolor="cyan">Python</td>
 <td bgcolor="cyan">FWAD</td>
 </tr>
 <tr>
 <td bgcolor="pink">3-4</td>
 <th bgcolor="cyan" colspan="4">Free Slot</th>
-<td bgcolor="cyan">Physics</td>
+<td bgcolor="cyan">Phy</td>
 </tr>
 </table>
 <br>
@@ -96,37 +96,37 @@ Execute the program using runserver command.
 <tr>
 <td>1.</td>
 <td>19AI301</td>
-<td>Python Programming</td>
+<td>Python Programming(Python)</td>
 </tr>
 <tr>
 <td>2.</td>
 <td>19AI414</td>
-<td>Fundamentals of Web Application Development</td>
+<td>Fundamentals of Web Application Development(FWAD)</td>
 </tr>
 <tr>
 <td>3.</td>
 <td>19EE404</td>
-<td>Digital Electronics</td>
+<td>Digital Electronics(DE)</td>
 </tr>
 <tr>
 <td>4.</td>
 <td>19EY701</td>
-<td>Soft Skills</td>
+<td>Soft Skills(SS)</td>
 </tr>
 <tr>
 <td>5.</td>
 <td>19MA201</td>
-<td>Calculus and Matrix Algebra</td>
+<td>Calculus and Matrix Algebra(Math)</td>
 </tr>
 <tr>
 <td>6.</td>
 <td>19PH214</td>
-<td>Physics for Quantum Computing</td>
+<td>Physics for Quantum Computing(Phy)</td>
 </tr>
 <tr>
 <td>7.</td>
 <td>19HS101</td>
-<td>Heritage of Tamils</td>
+<td>Heritage of Tamils(Tamil)</td>
 </tr>
 </table>
 </body>
@@ -136,7 +136,7 @@ Execute the program using runserver command.
 
 ## OUTPUT
 
-![Alt text](slot.png)
+![Alt text](timetableslot.png)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
